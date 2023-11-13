@@ -1,2 +1,2 @@
 # Seznamy
-<p> Autorka: Tereza Kiporová <p>
+<p> Odkaz: https://terka104.github.io/Seznamy/ <p>
